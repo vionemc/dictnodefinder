@@ -10,3 +10,4 @@
 .eggs
 .git
 test.py
+/dist
