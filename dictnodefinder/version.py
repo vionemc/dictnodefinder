@@ -3,4 +3,4 @@
 # setup.py and docs/conf.py
 """Version information for dictnodefinder package."""
 
-__version__ = '1.1.dev1+dirty'
+__version__ = '1.0'
