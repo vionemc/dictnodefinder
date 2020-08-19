@@ -56,6 +56,7 @@ setup(
     long_description=readme,
     author='Aminah Nuraini',
     author_email='aminah.nuraini92@gmail.com',
+    version='1.0',
     url='https://github.com/vionemc/dictnodefinder',
     project_urls={
         'Changelog': (
