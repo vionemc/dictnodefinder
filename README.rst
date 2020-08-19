@@ -16,3 +16,12 @@ Dictnodefinder is on PyPI so all you need is: ::
     pip install dictnodefinder
 
 
+Usage
+============
+
+	import dictnodefinder
+
+	source = {'a':{'b':0}}
+	key_to_find = 'b'
+
+	print(dictnodefinder.findkeys(source, key_to_find))
