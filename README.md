@@ -1,8 +1,5 @@
-# dictnodefinder
+# Dictnodefinder
 
-============
- Dictnodefinder
-============
 
 About
 =====
